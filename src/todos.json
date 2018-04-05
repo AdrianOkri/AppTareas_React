@@ -1,0 +1,22 @@
+{
+	"todos": [ 
+		{
+			"title": "Tasks 1",
+			"responsible": "Mayuri",
+			"description": "Buy a potato",
+			"priority": "low"
+		},
+		{
+			"title": "Tasks 2",
+			"responsible": "Okabe",
+			"description": "Time travel",
+			"priority": "medium"
+		},
+		{
+			"title": "Tasks 3",
+			"responsible": "Daru",
+			"description": "Hacking of CERN",
+			"priority": "high"
+		}
+	]
+}
