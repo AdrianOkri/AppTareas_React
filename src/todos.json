@@ -1,5 +1,5 @@
 {
-	"todos": [ 
+	"todos": [
 		{
 			"title": "Tasks 1",
 			"responsible": "Mayuri",
@@ -16,6 +16,12 @@
 			"title": "Tasks 3",
 			"responsible": "Daru",
 			"description": "Hacking of CERN",
+			"priority": "high"
+		},
+		{
+			"title": "Tasks 4",
+			"responsible": "Kurisu",
+			"description": "Find a IBM 5100",
 			"priority": "high"
 		}
 	]
